@@ -1,6 +1,6 @@
 # S2-testnet-2
    ```sh
-   SIDE_PORT=45
+   SIDE_PORT="CUSTOM PORT"
    ```
 ## Cloning SIDE Repository and Setup
 1. Clone the SIDE repository:
